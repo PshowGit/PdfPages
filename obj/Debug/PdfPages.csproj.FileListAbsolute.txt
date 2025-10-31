@@ -1,0 +1,7 @@
+D:\Progetti\PdfPages\obj\Debug\PdfPages.csproj.AssemblyReference.cache
+D:\Progetti\PdfPages\obj\Debug\PdfPages.csproj.CoreCompileInputs.cache
+D:\Progetti\PdfPages\bin\Debug\PdfPages.exe.config
+D:\Progetti\PdfPages\bin\Debug\PdfPages.exe
+D:\Progetti\PdfPages\bin\Debug\PdfPages.pdb
+D:\Progetti\PdfPages\obj\Debug\PdfPages.exe
+D:\Progetti\PdfPages\obj\Debug\PdfPages.pdb

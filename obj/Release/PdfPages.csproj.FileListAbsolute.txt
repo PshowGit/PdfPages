@@ -1,0 +1,6 @@
+D:\Progetti\PdfPages\bin\Release\PdfPages.exe.config
+D:\Progetti\PdfPages\bin\Release\PdfPages.exe
+D:\Progetti\PdfPages\bin\Release\PdfPages.pdb
+D:\Progetti\PdfPages\obj\Release\PdfPages.csproj.CoreCompileInputs.cache
+D:\Progetti\PdfPages\obj\Release\PdfPages.exe
+D:\Progetti\PdfPages\obj\Release\PdfPages.pdb

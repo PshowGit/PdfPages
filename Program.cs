@@ -37,7 +37,7 @@ namespace PdfPages
                 Console.WriteLine("Nessun argomento passato.");
             }
 
-            Console.WriteLine("\nPremi un tasto per uscire...");
+            Console.WriteLine("\nPremi un tasto per uscire... Bravo");
             Console.ReadKey();
         }
     }
